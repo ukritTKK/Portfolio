@@ -1,0 +1,8 @@
+garage_id,name,tel,rating,service_amount,image_url,assoc_user_id,enabled
+581c0b75ec942200ca236ef4,โชคชัย เจริญเกียรติวัฒนา,095-555-5555,5,15,/uploads/mechanic/images/mech1.jpg,581adb76886ce6002c2096ae,1
+581c0b75ec942200ca236ef4,อำพล วงศ์กิจ,089-881-8181,2,256,/uploads/mechanic/images/mech2.jpg,581adb7c886ce6002c2096af,1
+581c0b75ec942200ca236ef5,วัฒนา ว่องกิตติ,097-777-7777,4,200,/uploads/mechanic/images/mech3.jpg,581adb91886ce6002c2096b1,1
+581c0b75ec942200ca236ef6,วิบูลย์ อันดำรงค์,096-666-6666,3,512,/uploads/mechanic/images/mech4.png,581adbab886ce6002c2096b8,1
+581c0b75ec942200ca236ef6,เฉลิม วิพากษ์,096-543-2100,1,110,/uploads/mechanic/images/mech5.png,581adbaf886ce6002c2096b9,1
+581c0b75ec942200ca236ef6,ศิริ สินดำเนิน,081-567-1757,0,35,/uploads/mechanic/images/mech6.png,581adbb2886ce6002c2096ba,1
+581c0b75ec942200ca236ef7,บริพัทธิ์ โชคบันดาล,097-543-6953,4,25,/uploads/mechanic/images/mech7.png,581adbb6886ce6002c2096bb,1
