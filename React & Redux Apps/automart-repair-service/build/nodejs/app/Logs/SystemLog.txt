@@ -1,0 +1,2582 @@
+Message Save At: 21/7/2017 @ 17:5:15 Asia Timeing(Not UTC)
+------------Start set data-------------
+Save data completed
+------------------------------------------------
+Message Save At: 21/7/2017 @ 17:6:49 Asia Timeing(Not UTC)
+------------Start set data-------------
+Save data completed
+------------------------------------------------
+Message Save At: 21/7/2017 @ 17:12:37 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : MNFtjv2pkVSV2XrTuaiabbCt6pY2
+user firebase id : MNFtjv2pkVSV2XrTuaiabbCt6pY2 _id : 5971d078bc01ba003549eef8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 10:32:39 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+Mongo Can't find user firebaseid : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+Mongo Create new user from token
+Complete add new user to mongo. show newly saved : { __v: 0,
+  updatedAt: 2017-07-24T03:32:38.914Z,
+  createdAt: 2017-07-24T03:32:38.914Z,
+  firebaseid: 'cMNF9AbdhQdkeFhdzlmdleJ0eqg1',
+  _id: 59756a56bf807b0035cfca76,
+  enabled: 1,
+  user_type: 0 }
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 10:33:29 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 59756a56bf807b0035cfca76 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 10:34:19 Asia Timeing(Not UTC)
+------------Start set data-------------
+Save data completed
+------------------------------------------------
+Message Save At: 24/7/2017 @ 10:34:28 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 59756a56bf807b0035cfca76 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 10:35:12 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 59756a56bf807b0035cfca76 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 10:59:32 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+Mongo Can't find user firebaseid : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+Mongo Create new user from token
+Complete add new user to mongo. show newly saved : { __v: 0,
+  updatedAt: 2017-07-24T03:59:32.005Z,
+  createdAt: 2017-07-24T03:59:32.005Z,
+  firebaseid: 'cMNF9AbdhQdkeFhdzlmdleJ0eqg1',
+  _id: 597570a3d928c30090f085a8,
+  enabled: 1,
+  user_type: 0 }
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 10:59:32 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+Mongo Can't find user firebaseid : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+Mongo Create new user from token
+Complete add new user to mongo. show newly saved : { __v: 0,
+  updatedAt: 2017-07-24T03:59:32.305Z,
+  createdAt: 2017-07-24T03:59:32.305Z,
+  firebaseid: 'cMNF9AbdhQdkeFhdzlmdleJ0eqg1',
+  _id: 597570a4d928c30090f085a9,
+  enabled: 1,
+  user_type: 0 }
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:2:58 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:3:14 Asia Timeing(Not UTC)
+------------Start set data-------------
+Save data completed
+------------------------------------------------
+Message Save At: 24/7/2017 @ 11:3:26 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:11:12 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:11:32 Asia Timeing(Not UTC)
+------------Start set data-------------
+Save data completed
+------------------------------------------------
+Message Save At: 24/7/2017 @ 11:11:40 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:12:9 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:25:56 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:26:6 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:26:7 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:26:8 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:26:8 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:26:15 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:26:17 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:26:18 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:26:18 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:26:18 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:28:55 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:29:26 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:30:35 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:33:51 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:34:16 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:40:24 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:40:34 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:46:40 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : c5KnbvOfBDaXRagucyzSojTluv93
+Mongo Can't find user firebaseid : c5KnbvOfBDaXRagucyzSojTluv93
+Mongo Create new user from token
+Complete add new user to mongo. show newly saved : { __v: 0,
+  updatedAt: 2017-07-24T04:46:40.938Z,
+  createdAt: 2017-07-24T04:46:40.938Z,
+  firebaseid: 'c5KnbvOfBDaXRagucyzSojTluv93',
+  _id: 59757bb0d928c30090f085aa,
+  enabled: 1,
+  user_type: 0 }
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 11:56:30 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : 7v87wKWWlCUwbdSnTpxMEAScOND3
+Mongo Can't find user firebaseid : 7v87wKWWlCUwbdSnTpxMEAScOND3
+Mongo Create new user from token
+Complete add new user to mongo. show newly saved : { __v: 0,
+  updatedAt: 2017-07-24T04:56:30.201Z,
+  createdAt: 2017-07-24T04:56:30.201Z,
+  firebaseid: '7v87wKWWlCUwbdSnTpxMEAScOND3',
+  _id: 59757dfed928c30090f085ab,
+  enabled: 1,
+  user_type: 0 }
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 12:7:9 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1
+user firebase id : cMNF9AbdhQdkeFhdzlmdleJ0eqg1 _id : 597570a3d928c30090f085a8 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 16:4:52 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+Mongo Can't find user firebaseid : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+Mongo Create new user from token
+Complete add new user to mongo. show newly saved : { __v: 0,
+  updatedAt: 2017-07-24T09:04:52.400Z,
+  createdAt: 2017-07-24T09:04:52.400Z,
+  firebaseid: 'n1YoUaWRSEPlQpcO03L04K7x5Vx2',
+  _id: 5975b834d928c30090f085ac,
+  enabled: 1,
+  user_type: 0 }
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/7/2017 @ 17:36:8 Asia Timeing(Not UTC)
+------------Start set data-------------
+Save data completed
+------------------------------------------------
+Message Save At: 24/7/2017 @ 17:37:15 Asia Timeing(Not UTC)
+------------Start set data-------------
+Save data completed
+------------------------------------------------
+Message Save At: 24/7/2017 @ 17:37:34 Asia Timeing(Not UTC)
+------------Start set data-------------
+Save data completed
+------------------------------------------------
+Message Save At: 24/7/2017 @ 17:47:52 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 25/7/2017 @ 16:34:10 Asia Timeing(Not UTC)
+------------Start set data-------------
+Save data completed
+------------------------------------------------
+Message Save At: 25/7/2017 @ 17:20:44 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : MNFtjv2pkVSV2XrTuaiabbCt6pY2
+user firebase id : MNFtjv2pkVSV2XrTuaiabbCt6pY2 _id : 59756e76b79d5c00362ed276 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 25/7/2017 @ 17:36:13 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : MNFtjv2pkVSV2XrTuaiabbCt6pY2
+user firebase id : MNFtjv2pkVSV2XrTuaiabbCt6pY2 _id : 59756e76b79d5c00362ed276 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 25/7/2017 @ 17:37:9 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : MNFtjv2pkVSV2XrTuaiabbCt6pY2
+user firebase id : MNFtjv2pkVSV2XrTuaiabbCt6pY2 _id : 59756e76b79d5c00362ed276 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 25/7/2017 @ 17:40:28 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : MNFtjv2pkVSV2XrTuaiabbCt6pY2
+user firebase id : MNFtjv2pkVSV2XrTuaiabbCt6pY2 _id : 59756e76b79d5c00362ed276 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 25/7/2017 @ 21:31:57 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : MNFtjv2pkVSV2XrTuaiabbCt6pY2
+user firebase id : MNFtjv2pkVSV2XrTuaiabbCt6pY2 _id : 59756e76b79d5c00362ed276 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 25/7/2017 @ 21:32:33 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : MNFtjv2pkVSV2XrTuaiabbCt6pY2
+user firebase id : MNFtjv2pkVSV2XrTuaiabbCt6pY2 _id : 59756e76b79d5c00362ed276 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 25/7/2017 @ 21:39:0 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+Mongo Can't find user firebaseid : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+Mongo Create new user from token
+Complete add new user to mongo. show newly saved : { __v: 0,
+  updatedAt: 2017-07-25T14:39:00.678Z,
+  createdAt: 2017-07-25T14:39:00.678Z,
+  firebaseid: 'fZbKkrsXhCZ5m2IOUBlLI8UZOWC3',
+  _id: 59775804156ecd003d72ad85,
+  enabled: 1,
+  user_type: 0 }
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 25/7/2017 @ 22:14:12 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59775804156ecd003d72ad85 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 25/7/2017 @ 22:40:32 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : MNFtjv2pkVSV2XrTuaiabbCt6pY2
+user firebase id : MNFtjv2pkVSV2XrTuaiabbCt6pY2 _id : 59756e76b79d5c00362ed276 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 26/7/2017 @ 10:22:51 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+Mongo Can't find user firebaseid : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+Mongo Create new user from token
+Complete add new user to mongo. show newly saved : { __v: 0,
+  updatedAt: 2017-07-26T03:22:51.114Z,
+  createdAt: 2017-07-26T03:22:51.114Z,
+  firebaseid: 'fZbKkrsXhCZ5m2IOUBlLI8UZOWC3',
+  _id: 59780b0b4a9c350035cbfc07,
+  enabled: 1,
+  user_type: 0 }
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 26/7/2017 @ 17:30:46 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 26/7/2017 @ 17:31:11 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 26/7/2017 @ 17:38:53 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 26/7/2017 @ 18:14:17 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 26/7/2017 @ 18:15:7 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 10:10:18 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59775804156ecd003d72ad85 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 10:11:25 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : rPjSd5Fhz2OvuH3nC22DWHpscNH3
+user firebase id : rPjSd5Fhz2OvuH3nC22DWHpscNH3 _id : 597864734437a9009652cf5a already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 10:12:45 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : zx2WgYbvatX2SMisdGIaxj0Qc3Y2
+user firebase id : zx2WgYbvatX2SMisdGIaxj0Qc3Y2 _id : 5978692f4437a9009652cf5b already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 10:13:14 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59775804156ecd003d72ad85 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 10:14:32 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : MNFtjv2pkVSV2XrTuaiabbCt6pY2
+user firebase id : MNFtjv2pkVSV2XrTuaiabbCt6pY2 _id : 59756e76b79d5c00362ed276 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 10:26:7 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59775804156ecd003d72ad85 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 10:29:1 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59775804156ecd003d72ad85 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 10:48:46 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59775804156ecd003d72ad85 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 10:55:48 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : zx2WgYbvatX2SMisdGIaxj0Qc3Y2
+user firebase id : zx2WgYbvatX2SMisdGIaxj0Qc3Y2 _id : 5978692f4437a9009652cf5b already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 11:40:58 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59775804156ecd003d72ad85 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 12:1:32 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : rPjSd5Fhz2OvuH3nC22DWHpscNH3
+user firebase id : rPjSd5Fhz2OvuH3nC22DWHpscNH3 _id : 597864734437a9009652cf5a already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 12:29:20 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59775804156ecd003d72ad85 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 13:35:59 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : nbOvlqN8KCYWvGwKXCrwR6oDuOG3
+Mongo Can't find user firebaseid : nbOvlqN8KCYWvGwKXCrwR6oDuOG3
+Mongo Create new user from token
+Complete add new user to mongo. show newly saved : { __v: 0,
+  updatedAt: 2017-07-27T06:35:59.934Z,
+  createdAt: 2017-07-27T06:35:59.934Z,
+  firebaseid: 'nbOvlqN8KCYWvGwKXCrwR6oDuOG3',
+  _id: 597989cf1133e50034a41d80,
+  enabled: 1,
+  user_type: 0 }
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 13:39:44 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : yxWkLLvtwKYdkrIZhTnJQFNRUfE2
+Mongo Can't find user firebaseid : yxWkLLvtwKYdkrIZhTnJQFNRUfE2
+Mongo Create new user from token
+Complete add new user to mongo. show newly saved : { __v: 0,
+  updatedAt: 2017-07-27T06:39:44.694Z,
+  createdAt: 2017-07-27T06:39:44.694Z,
+  firebaseid: 'yxWkLLvtwKYdkrIZhTnJQFNRUfE2',
+  _id: 59798ab01133e50034a41d81,
+  enabled: 1,
+  user_type: 0 }
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 13:43:11 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : qLAD2oJH5fhGdw8jMVMnzIER6KC2
+Mongo Can't find user firebaseid : qLAD2oJH5fhGdw8jMVMnzIER6KC2
+Mongo Create new user from token
+Complete add new user to mongo. show newly saved : { __v: 0,
+  updatedAt: 2017-07-27T06:43:11.438Z,
+  createdAt: 2017-07-27T06:43:11.438Z,
+  firebaseid: 'qLAD2oJH5fhGdw8jMVMnzIER6KC2',
+  _id: 59798b7f1133e50034a41d82,
+  enabled: 1,
+  user_type: 0 }
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 13:46:23 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 16:39:53 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 16:40:37 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 16:41:5 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 17:7:44 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 17:42:39 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 17:55:42 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 18:1:10 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 18:7:6 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : zx2WgYbvatX2SMisdGIaxj0Qc3Y2
+Mongo Can't find user firebaseid : zx2WgYbvatX2SMisdGIaxj0Qc3Y2
+Mongo Create new user from token
+Complete add new user to mongo. show newly saved : { __v: 0,
+  updatedAt: 2017-07-27T11:07:06.578Z,
+  createdAt: 2017-07-27T11:07:06.578Z,
+  firebaseid: 'zx2WgYbvatX2SMisdGIaxj0Qc3Y2',
+  _id: 5979c95a1133e50034a41d83,
+  enabled: 1,
+  user_type: 0 }
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 18:14:33 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 18:22:46 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/7/2017 @ 18:24:19 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/7/2017 @ 12:33:59 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/7/2017 @ 12:45:13 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/7/2017 @ 12:54:44 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/7/2017 @ 12:59:9 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/7/2017 @ 14:33:13 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/7/2017 @ 15:4:31 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/7/2017 @ 15:9:23 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/7/2017 @ 16:7:9 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/7/2017 @ 16:9:18 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/7/2017 @ 16:22:37 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/7/2017 @ 16:30:4 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/7/2017 @ 16:32:16 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/7/2017 @ 16:34:49 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/7/2017 @ 18:4:52 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/7/2017 @ 18:7:25 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 9:39:49 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 11:14:37 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 11:22:44 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 11:24:27 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 11:34:13 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 11:35:28 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 11:36:44 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 11:39:53 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 11:43:18 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 11:43:39 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 11:57:47 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 12:1:53 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 12:6:4 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 12:16:47 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 12:20:21 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 12:26:45 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 12:28:42 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 12:35:16 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 12:37:4 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 12:40:17 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 12:41:4 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 12:42:3 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 13:0:52 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 13:4:10 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 14:8:19 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 14:9:43 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 14:10:25 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 14:15:18 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 14:27:29 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 14:27:48 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 14:31:24 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 14:31:42 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 14:40:11 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 15:28:48 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 15:29:19 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 15:30:14 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 15:30:32 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 15:44:52 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 15:45:11 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 15:48:25 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 15:58:9 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 16:9:35 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 16:30:13 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 16:30:47 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 16:37:12 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 16:39:54 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 16:41:6 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 16:41:20 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 17:6:47 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 17:7:6 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 17:9:56 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 17:10:14 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 18:0:52 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 18:1:39 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 18:1:59 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 18:22:18 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/8/2017 @ 18:23:55 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 2/8/2017 @ 10:46:53 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 2/8/2017 @ 10:56:31 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 2/8/2017 @ 10:59:15 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 2/8/2017 @ 11:18:14 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 2/8/2017 @ 12:25:14 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 2/8/2017 @ 13:21:48 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 2/8/2017 @ 14:53:20 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 2/8/2017 @ 15:12:41 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 2/8/2017 @ 15:13:3 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 2/8/2017 @ 15:54:42 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 3/8/2017 @ 10:24:30 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 3/8/2017 @ 10:36:40 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 3/8/2017 @ 10:36:48 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 3/8/2017 @ 10:37:36 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 3/8/2017 @ 16:44:1 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 3/8/2017 @ 16:46:38 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 11:29:35 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 14:36:53 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 14:54:30 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 15:2:39 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 15:11:28 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 15:12:25 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 15:48:46 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 15:51:47 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 16:36:20 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 16:36:43 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 16:36:57 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 16:37:23 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 16:38:28 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 16:38:47 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 18:6:18 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 18:6:37 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 18:10:25 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 18:35:29 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 18:38:37 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/8/2017 @ 18:39:5 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 8/8/2017 @ 10:43:55 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 8/8/2017 @ 14:23:59 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 8/8/2017 @ 14:24:21 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 9/8/2017 @ 15:55:23 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 9/8/2017 @ 16:10:58 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 10/8/2017 @ 12:2:31 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 10/8/2017 @ 12:26:33 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 10/8/2017 @ 13:17:15 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 10/8/2017 @ 13:19:7 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 10/8/2017 @ 16:22:15 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 10/8/2017 @ 17:2:32 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 10/8/2017 @ 18:13:42 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 10:26:0 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 10:33:49 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 12:46:45 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 12:53:34 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 13:3:58 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 14:15:1 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 14:52:52 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 15:16:55 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 15:26:23 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 15:31:24 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 15:31:54 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 15:32:20 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 15:32:50 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 16:32:5 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 16:33:8 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 16:56:11 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 17:5:1 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/8/2017 @ 17:15:50 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 10:5:37 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 10:5:56 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 10:9:29 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 10:25:37 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 10:25:51 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 10:33:11 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 10:33:26 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 10:37:54 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 10:38:8 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 10:38:25 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 10:38:42 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 10:41:21 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 10:41:37 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 10:41:51 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 10:44:42 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 11:40:49 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 12:39:12 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 12:59:5 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 18:20:17 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/8/2017 @ 18:20:36 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 17/8/2017 @ 15:37:32 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 23/8/2017 @ 10:6:8 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 23/8/2017 @ 10:11:34 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 23/8/2017 @ 10:29:7 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 23/8/2017 @ 10:29:27 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 23/8/2017 @ 10:38:7 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 23/8/2017 @ 11:5:25 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 23/8/2017 @ 16:6:34 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 23/8/2017 @ 16:7:50 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 23/8/2017 @ 16:8:42 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 23/8/2017 @ 16:32:48 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 23/8/2017 @ 16:33:49 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/8/2017 @ 14:11:52 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 24/8/2017 @ 16:4:27 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 28/8/2017 @ 11:25:14 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 28/8/2017 @ 11:26:51 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 28/8/2017 @ 12:0:21 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 28/8/2017 @ 12:0:55 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 28/8/2017 @ 12:5:54 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 28/8/2017 @ 12:6:48 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 28/8/2017 @ 12:7:43 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 28/8/2017 @ 12:8:24 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 28/8/2017 @ 12:8:45 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 28/8/2017 @ 12:10:4 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 28/8/2017 @ 12:16:44 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 28/8/2017 @ 12:20:39 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 28/8/2017 @ 12:21:27 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 28/8/2017 @ 12:28:10 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 28/8/2017 @ 12:30:27 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 28/8/2017 @ 12:35:15 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 29/8/2017 @ 13:12:29 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 29/8/2017 @ 13:12:57 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 29/8/2017 @ 14:14:22 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 29/8/2017 @ 14:26:1 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 29/8/2017 @ 15:18:37 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 30/8/2017 @ 10:27:40 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 30/8/2017 @ 10:28:37 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 30/8/2017 @ 10:31:42 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 30/8/2017 @ 10:32:49 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 30/8/2017 @ 10:33:17 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 30/8/2017 @ 10:33:32 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 30/8/2017 @ 10:34:26 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 30/8/2017 @ 10:37:59 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 30/8/2017 @ 10:46:20 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 30/8/2017 @ 11:27:26 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 30/8/2017 @ 12:5:51 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : E77wdDDS8zYdwAE9EkrGX51kj9t1
+Mongo Can't find user firebaseid : E77wdDDS8zYdwAE9EkrGX51kj9t1
+Mongo Create new user from token
+Complete add new user to mongo. show newly saved : { __v: 0,
+  updatedAt: 2017-08-30T05:05:51.131Z,
+  createdAt: 2017-08-30T05:05:51.131Z,
+  firebaseid: 'E77wdDDS8zYdwAE9EkrGX51kj9t1',
+  _id: 59a647af49b57b0034342414,
+  enabled: 1,
+  user_type: 0 }
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 30/8/2017 @ 12:13:36 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 30/8/2017 @ 12:15:2 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : E77wdDDS8zYdwAE9EkrGX51kj9t1
+user firebase id : E77wdDDS8zYdwAE9EkrGX51kj9t1 _id : 59a647af49b57b0034342414 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 30/8/2017 @ 12:42:32 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/8/2017 @ 18:10:31 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/8/2017 @ 18:13:18 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/8/2017 @ 18:38:1 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/8/2017 @ 18:38:32 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/8/2017 @ 18:39:58 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/8/2017 @ 18:42:42 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/8/2017 @ 18:43:29 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/8/2017 @ 18:44:28 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/8/2017 @ 18:45:56 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 31/8/2017 @ 18:46:35 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/9/2017 @ 16:2:42 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/9/2017 @ 16:32:29 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/9/2017 @ 16:41:44 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/9/2017 @ 16:47:20 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/9/2017 @ 16:47:30 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/9/2017 @ 16:47:54 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/9/2017 @ 17:42:18 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 1/9/2017 @ 17:42:35 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 4/9/2017 @ 11:57:55 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 4/9/2017 @ 15:45:26 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 4/9/2017 @ 15:46:13 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 4/9/2017 @ 16:46:10 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 4/9/2017 @ 16:48:4 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 4/9/2017 @ 16:48:39 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 4/9/2017 @ 16:48:58 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 4/9/2017 @ 16:57:5 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 4/9/2017 @ 17:20:6 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 4/9/2017 @ 18:15:22 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 4/9/2017 @ 18:24:14 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 4/9/2017 @ 18:29:56 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 4/9/2017 @ 18:30:21 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 14:40:4 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 14:40:29 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 16:6:59 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 16:7:21 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 16:7:49 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 16:8:39 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 16:37:40 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 16:37:57 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 17:32:19 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 17:32:49 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 17:41:27 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 17:41:44 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 17:56:12 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 17:59:30 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 18:13:23 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 18:13:39 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 18:36:3 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 18:36:24 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 18:41:47 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 5/9/2017 @ 18:42:1 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 6/9/2017 @ 10:49:57 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 6/9/2017 @ 10:50:9 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 6/9/2017 @ 10:54:7 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 6/9/2017 @ 10:54:56 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 6/9/2017 @ 14:33:13 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 6/9/2017 @ 15:8:15 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 7/9/2017 @ 10:0:13 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/9/2017 @ 11:12:21 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/9/2017 @ 16:57:30 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/9/2017 @ 17:2:49 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 11/9/2017 @ 17:9:12 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 12/9/2017 @ 9:37:28 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 12/9/2017 @ 17:32:0 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 13/9/2017 @ 9:51:19 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 13/9/2017 @ 10:21:37 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 13/9/2017 @ 12:19:33 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 13/9/2017 @ 12:20:13 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 14/9/2017 @ 10:25:39 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 14/9/2017 @ 10:52:46 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 14/9/2017 @ 10:53:1 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 14/9/2017 @ 13:14:10 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 14/9/2017 @ 15:13:21 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 14/9/2017 @ 16:19:33 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/9/2017 @ 10:15:48 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/9/2017 @ 10:16:31 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/9/2017 @ 15:2:52 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 15/9/2017 @ 15:37:4 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 18/9/2017 @ 12:51:4 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 19/9/2017 @ 10:27:0 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 20/9/2017 @ 11:34:24 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 21/9/2017 @ 10:0:12 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 21/9/2017 @ 10:0:26 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 21/9/2017 @ 11:59:7 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 21/9/2017 @ 12:0:15 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 21/9/2017 @ 16:17:56 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 21/9/2017 @ 16:26:34 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 21/9/2017 @ 16:29:37 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 21/9/2017 @ 17:0:32 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 21/9/2017 @ 17:5:26 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 21/9/2017 @ 17:41:36 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 21/9/2017 @ 17:57:43 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 21/9/2017 @ 18:4:38 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 10:7:8 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 15:0:22 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 15:18:4 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 15:19:22 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 15:24:53 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 15:26:5 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 17:22:45 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 17:24:9 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 17:31:11 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 17:41:38 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 17:45:46 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 17:48:46 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 17:49:27 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 17:50:6 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 17:51:47 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 17:53:16 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 17:53:48 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 17:54:35 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 17:57:55 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 18:5:32 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 18:7:42 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 18:9:8 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 18:11:9 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 18:15:41 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 22/9/2017 @ 18:17:3 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 25/9/2017 @ 11:50:43 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 25/9/2017 @ 15:29:52 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 25/9/2017 @ 15:34:40 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : n1YoUaWRSEPlQpcO03L04K7x5Vx2
+user firebase id : n1YoUaWRSEPlQpcO03L04K7x5Vx2 _id : 5975b834d928c30090f085ac already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 26/9/2017 @ 11:30:43 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 27/9/2017 @ 10:25:3 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent
+Message Save At: 28/9/2017 @ 13:44:4 Asia Timeing(Not UTC)
+------------Start firebase login operation-------------
+verify firebase-token completed! of user id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3
+user firebase id : fZbKkrsXhCZ5m2IOUBlLI8UZOWC3 _id : 59780b0b4a9c350035cbfc07 already in database
+Start sending JWTToken
+JWT Token Completely sent

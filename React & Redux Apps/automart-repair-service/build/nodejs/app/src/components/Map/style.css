@@ -1,0 +1,1140 @@
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+.map {
+  height: 100%;
+}
+
+/* @media screen and (min-width: 100%){
+    .map {
+      height: 90%;
+    }
+} */
+@media only screen and (max-width: 320px) {
+  #map_wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+  }
+  [class*='Modal--service--select'] {
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+  }
+  .Modal--viewQuot {
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+  }
+  .Modal--viewQuot--content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+  }
+  .byClicking--text {
+    top: 20%;
+    left: 50%;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .centerControlText {
+    font-size: 8px;
+  }
+  .setMarkerText {
+    font-size: 8px;
+  }
+  [class*='Modal--viewQuot--accept--btn'] {
+    top: 60%;
+    left: 25%;
+  }
+  [class*='Modal--viewQuot--cancel--btn'] {
+    top: 60%;
+    left: 75%;
+  }
+  [class*='Modal--choosepayment--continue--btn'] {
+    top: 60%;
+    left: 25%;
+  }
+  [class*='Modal--choosepayment--back--btn'] {
+    top: 60%;
+    left: 75%;
+  }
+  .byClicking--text {
+    top: 20%;
+    left: 50%;
+  }
+}
+@media only screen and (min-width: 501px) and (max-width: 767px) {
+  .Modal--viewQuot {
+    width: 500px;
+    height: 500px;
+  }
+  [class*='Modal--viewQuot--accept--btn'] {
+    top: 60%;
+    left: 35%;
+  }
+  [class*='Modal--viewQuot--cancel--btn'] {
+    top: 60%;
+    left: 65%;
+  }
+  [class*='Modal--choosepayment--continue--btn'] {
+    top: 60%;
+    left: 30%;
+  }
+  [class*='Modal--choosepayment--back--btn'] {
+    top: 60%;
+    left: 70%;
+  }
+  .byClicking--text {
+    top: 25%;
+    left: 50%;
+  }
+}
+@media only screen and (min-width: 501px) {
+  [class*='Modal--viewQuot--accept--btn'] {
+    top: 60%;
+    left: 35%;
+  }
+  [class*='Modal--viewQuot--cancel--btn'] {
+    top: 60%;
+    left: 65%;
+  }
+  [class*='Modal--choosepayment--continue--btn'] {
+    top: 60%;
+    left: 30%;
+  }
+  [class*='Modal--choosepayment--back--btn'] {
+    top: 60%;
+    left: 70%;
+  }
+  .byClicking--text {
+    top: 25%;
+    left: 50%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .gmnoprint div {
+    display: none;
+  }
+  .Modal--matching--body--text {
+    font-size: 16px;
+  }
+  .Modal--service--select--body--text {
+    font-size: 16px;
+  }
+  [class*='col-'] {
+    width: 98%;
+  }
+  .Modal--choosepayment--headerText {
+    font-size: 18px;
+  }
+  .Modal--services {
+    display: block;
+    width: 100%;
+    min-height: 70%;
+    margin-top: 4px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 8px;
+    overflow: auto;
+  }
+  .Modal--service--select--body {
+    overflow: auto;
+  }
+  .Modal--viewQuot {
+    width: 96%;
+    height: 90%;
+  }
+  .Modal--choosepayment--cards--each {
+    height: 25%;
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .Modal--services {
+    display: inline-block;
+    width: 40%;
+    min-height: 80%;
+    margin-left: 4px;
+    margin-right: 4px;
+    overflow: auto;
+  }
+  .Modal--viewQuot {
+    width: 768px;
+    height: 75%;
+  }
+  .Modal--matching--body--text {
+    font-size: 22px;
+  }
+  .Modal--service--select--body--text {
+    font-size: 22px;
+  }
+  .Modal--choosepayment--headerText {
+    font-size: 24px;
+  }
+  .Modal--viewQuot {
+    width: 720px;
+  }
+  .Modal--choosepayment--cards--each {
+    width: 480px;
+    height: 72px;
+  }
+} 
+/*  remove Google logo & copyight & terms of use in map footer   */
+a[href^="http://maps.google.com/maps"]{display: none !important}
+a[href^="https://maps.google.com/maps"]{display: none !important}
+.gmnoprint a, .gmnoprint span, .gm-style-cc {
+  display: none;
+}
+/* .gmnoprint div {
+  background:none !important;
+} */
+/*  remove Google logo & copyight & terms of use in map footer   */
+
+/*  search box style */
+.pac-container {
+  box-shadow: none;
+  border-radius: 2px;
+  box-shadow: 1px 2px 4px #888888;
+}
+.pac-item {                   /*  search result items  */
+  border-top: 1px solid #F1F1F1;
+  border-bottom: 1px solid #F1F1F1;
+  line-height: 40px;
+  padding: 8px;
+}
+.pac-item:hover {
+  background-color: #EDEDED;
+}
+.pac-container:after {        /*  remove 'Powered By Google' in search box  */
+  background-image: none !important;
+  height: 0px;
+}
+/*  search box style */
+
+html,
+body,
+.GMap {
+	height: 100%;
+	position: absolute;
+	width: 100%;
+}
+.GMap-canvas {
+	top: 20px;
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.Modal--matching {              /* Modal Box */
+  position: fixed;
+  z-index: 99;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  /*overflow: auto;*/
+  height: 75%;
+  background-color : #EAE6C7;
+  border-radius: 4px;
+}
+.Modal--matching--overlay {     /* Below layer of Modal Box */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1; 
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+.Modal--matching--content {     /* Everything Inside The Modal Box */
+  position: relative;
+  background-color: #EAE6C7;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+.Modal--matching--header {      /* Header Modal Box */
+  padding: 32px;
+  height: 10%;
+  background-color: #EFEFEF;
+}
+.Modal--matching--close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  color: #333333;
+  font-size: 32px;
+  text-decoration: none;
+  cursor: pointer;
+  user-select: none;
+}
+.Modal--matching--body {
+  position: relative;
+  margin: auto;
+  height: 70%;
+  padding: 8px;
+  background-color: #EFEFEF;  
+}
+.Modal--matching--body--text {
+   /* background-color: yellow; */
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  width: 100%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.Modal--matching--footer {
+  text-align: center;
+  padding: 16px;
+  background-color: #EFEFEF;
+  height: 20%;
+}
+.Modal--matching--btn {
+  color: #E0E0E0;
+  background-color: #191919;
+  width: 128px;
+  font-size: 20px;
+  top: 0;
+  left: 0;
+  user-select: none;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 4px;
+  line-height: 32px;
+}
+.Modal--matching--spinner {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.not_available_img {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  user-select: none;
+}
+.centerControlUI {
+  width: 50%;
+  background-color: #FFFFFF;
+  border: 2px solid #FFFFFF;
+  border-radius: 3px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  text-align: center;
+}
+.centerControlText {
+  color: rgb(25, 25, 25);
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 12px;
+  line-height: 36px;
+  user-select: none;
+}
+.setMarkerUI {
+  width: 50%;
+  background-color: #191919; 
+  border: 2px solid #191919;
+  border-radius: 3px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  text-align: center;
+}
+.setMarkerText {
+  color: #FFFFFF;
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 12px;
+  line-height: 36px;
+  user-select: none;
+}
+.findMatchBtn {
+  position: relative;
+  width: 100%;
+  height: 50%;
+  margin-top: 4px;
+  /* background-color: #25C45F; */
+  background-color: #0047BA;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 2px;
+  box-sizing: border-box;
+  /* box-shadow: 3px 3px 10px 0px #888888; */
+}
+.findMatchBtn:active {
+  background-color: #2062CC;
+}
+.goImg {
+  position: absolute;
+  top: 50%;
+  right: 20%;
+  transform: translate(50%, -50%);
+  z-index: 20;
+}
+.upperControl--div {
+  position: relative;
+  z-Index: 99;
+  height: 48px;
+  margin-top: 8px;
+  /* margin-left: 8px; */
+  box-shadow: 1px 2px 8px #999999;
+  border-radius: 4px;
+}
+[class*='bottomControl--div'] {
+  position: relative;
+  z-Index: 1;
+  height: 80px;
+  margin-bottom: 24px;
+  box-shadow: 1px 2px 8px #999999;
+  border-radius: 4px;
+}
+.xImg {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-55%);
+  right: 2%;
+  cursor: pointer;
+  user-select: none;
+  z-index: 3;
+}
+.findImg {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-55%);
+  right: 8%;
+  cursor: pointer;
+  user-select: none;
+  z-index: 3;
+}
+.searchDiv {
+  width: 100%;
+  position: relative;
+  height: 50%;
+  z-Index: 2;
+  background-color: #FFFFFF; 
+  border: 1px solid #E8E8E8; 
+  border-radius: 2px;
+}
+.searchDiv:focus {
+  box-shadow: 1px 2px 10px #888888;
+}
+.searchBox {
+  width: 87%;
+  height: 100%;
+  font-family: 'Roboto';
+  z-Index: 3;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+}
+.searchBox:focus {
+  border: none;
+}
+.successImg {
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  user-select: none;
+}
+.mechanicInfo_BOTTOMDiv {
+  position: relative;
+  z-Index: 1;
+  height: 35%;
+  margin-bottom: 24px;
+  box-shadow: 1px 2px 8px #999999;
+  border-radius: 4px;
+  background-color: #EAE6C7;
+}
+.mechanicStatusBar {
+  position: relative;
+  height: 30%;
+  width: 100%;
+  background-color: #EEEEEE;
+}
+.mechanicStatusBarText {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 16px;
+  font-weight: lighter;
+  margin-left: 2px; 
+  margin-right: 2px;
+}
+.mechanicHeader {
+  position: relative;
+  height: 20%;
+  width: 100%;
+  background-color: #EFEFEF; 
+}
+.mechanicHeaderText {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 8px; 
+}
+.mechanicInfo {
+  position: relative;
+  height: 90%;
+  width: 100%;
+  /* background-color: #EAE6C7; */
+  background-color: #EFEFEF;  
+}
+.mechanicPhoto {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  user-select: none;
+}
+.mechanicInfoTextDiv {
+  position: relative;
+  height: 100%;
+  width: 75%;
+  background-color: #EFEFEF;
+  display: inline-block;
+}
+.mechanicPhotoDiv {
+  position: relative;
+  height: 100%;
+  width: 25%;
+  display: inline-block;
+  background-color: #EFEFEF;
+}
+.mechanicInfoText {
+  margin: 4px;
+  font-size: 12px;
+  margin-left: 8px;
+  font-weight: normal;
+}
+.mechanicInfoBold {
+  font-weight: bold;
+}
+.mechInfoTextInnerDiv {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.mechanicName {
+  font-size: 14px;
+}
+.mechanicPerksText {
+  font-style: italic;
+}
+.mechanicNotRated {
+  margin-left: 8px;
+  font-style: italic;
+}
+.mechanicsRate {
+  user-select: none;
+}
+
+.topRightControl--div {
+  position: relative;
+}
+
+.topRightControl--button {
+  position: absolute;
+  height: 32px;
+  width: 32px;
+  top: 0;
+  right: 50%;
+  transform: translate(-50%, 50%);
+  cursor: pointer;
+  user-select: none;
+  background: none;
+  border: none;
+  border-radius: 50%;
+}
+.findLocationImg {
+  border-radius: 50%;
+  background-color: lightgreen;
+}
+
+.cancelMechanicButton {
+  position: absolute;
+  z-index: 999;
+  top: 0;
+  right: 15%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+  border: none;
+  user-select: none;
+}
+.cancelMechanicIcon {
+  position: relative;
+  border-radius: 50%;
+  background-color: lightblue;
+}
+
+.Modal--service--select {              /* Modal Box */
+  position: fixed;
+  z-index: 99;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 75%;
+  background-color : #EAE6C7;
+  border-radius: 4px;
+}
+.Modal--service--select--overlay {     /* Below layer of Modal Box */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1; 
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+.Modal--service--select--content {     /* Everything Inside The Modal Box */
+  position: relative;
+  background-color: #EAE6C7;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+.Modal--service--select--header {      /* Header Modal Box */
+  padding: 32px;
+  height: 10%;
+  background-color: #EFEFEF;
+}
+.Modal--service--select--close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  color: #333333;
+  font-size: 32px;
+  text-decoration: none;
+  cursor: pointer;
+  user-select: none;
+}
+.Modal--service--select--body {
+  position: relative;
+  margin: auto;
+  text-align: center;
+  height: 70%;
+  padding: 8px;
+  background-color: #EFEFEF; 
+  /* background-color: lightcoral; */
+}
+.Modal--service--select--body--text {
+   /* background-color: yellow; */
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  width: 100%;
+  transform: translate(-50%, -50%);
+}
+.Modal--service--select--footer {
+  text-align: center;
+  padding: 16px;
+  background-color: #EFEFEF;
+  height: 20%;
+}
+.Modal--service--select--order--btn {
+  margin-left: 4px;
+  margin-right: 4px;
+  color: #E0E0E0;
+  background-color: #0047BA;
+  width: 128px;
+  font-size: 20px;
+  top: 0;
+  left: 0;
+  user-select: none;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 4px;
+  line-height: 32px;
+}
+.Modal--service--select--btn {
+  margin-left: 4px;
+  margin-right: 4px;
+  color: #E0E0E0;
+  background-color: #191919;
+  width: 128px;
+  font-size: 20px;
+  top: 0;
+  left: 0;
+  user-select: none;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 4px;
+  line-height: 32px;
+}
+.Modal--service--select--spinner {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Modal--services {
+  position: relative; 
+  /* background-color: #ccffe8; */
+  background-color: #EEEEEE;
+  /* top: 0; */
+  /* left: 0; */
+  border-radius: 4px;
+  border: 1px solid #A4A8A6;
+}
+
+.Modal--service--guideText {
+  font-size: 16px;
+}
+
+.Modal--service--name--text {
+  position: absolute;
+  transform: translate(-50%, 0%);  
+  top: 0;
+  left: 50%; 
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: lighter;
+  font-size: 18px;
+  margin-top: 4px;
+  width: 80%;
+  height: 10%;
+}
+
+.Modal--service--inspect--image {
+  position: absolute;
+  transform: translate(-50%, 50%);  
+  top: 0;
+  left: 50%;
+  width: 120px;
+  height: 120px;
+  margin: auto;
+  border-radius: 50%;
+  background-color: pink;
+}
+
+.Modal--service--manual {
+  position: absolute;
+  transform: translate(-50%, 0%);  
+  top: 25%;
+  left: 50%;
+  width: 50%;
+  margin-bottom: 16px;
+}
+
+.service-choice {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 8px;
+  width: 90%;
+  height: 100%;
+  /* background-color: lightgreen; */
+}
+.service-choice-text {
+  /* position: absolute; */
+  text-align: left;
+  padding-left: 16px;
+  margin-left: 32px;
+  width: 90%;
+}
+
+.service-checkbox {
+  position: absolute;
+  left: 5%;
+  width: 16px;
+  height: 16px;
+  border: none;
+  background: none; 
+}
+
+.viewQuatation--button {
+  position: absolute;
+  top: 50%;
+  right: 5%;
+  transform: translate(0%, -50%);
+  border: none;
+  /* padding: 4px; */
+  background-color: #165BCC;
+  color: #EDEDED; 
+  user-select: none;
+}
+
+.Modal--viewQuot {              /* Modal Box */
+  position: absolute;
+  z-index: 999;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color : #EAE6C7;
+  border-radius: 4px;
+}
+.Modal--viewQuot--overlay {     /* Below layer of Modal Box */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1; 
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+.Modal--viewQuot--content {     /* Everything Inside The Modal Box */
+  position: relative;
+  z-index: 999;
+  background-color: #EAE6C7;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+.Modal--viewQuot--header {      /* Header Modal Box */
+  position: relative;
+  height: 5%;
+  background-color: #EFEFEF; 
+}
+.Modal--viewQuot--close {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translate(-50%, -50%);
+  color: #333333; 
+  font-size: 32px; 
+  text-decoration: none;
+  cursor: pointer;
+  user-select: none;
+}
+.Modal--viewQuot--body {
+  position: relative;
+  overflow: auto;
+  margin: auto;
+  height: 75%;
+  padding: 8px;
+  background-color: #EFEFEF; 
+}
+.Modal--viewQuot--body--text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 80%;
+  height: 100%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.Modal--viewQuot--body--headerText {
+  font-size: 24px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.Modal--viewQuot--footer {
+  position: relative;
+  text-align: center;
+  padding: 16px;
+  background-color: #EFEFEF;
+  border-top: 1px solid #BABABA;
+  height: 20%;
+}
+.Modal--viewQuot--accept--btn {
+  position: absolute;
+  color: #E0E0E0;
+  background-color: #0BAA26;
+  width: 128px;
+  font-size: 20px;
+  transform: translate(-50%, -50%);
+  user-select: none;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 4px;
+  line-height: 32px;
+}
+.Modal--viewQuot--cancel--btn {
+  position: absolute;
+  color: #E0E0E0;
+  background-color: #191919;
+  width: 128px;
+  font-size: 20px;
+  transform: translate(-50%, -50%);
+  user-select: none;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 4px;
+  line-height: 32px;
+}
+
+.Modal--viewQuot--list {
+  text-align: center;
+  margin-top: 24px;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  overflow: auto;
+}
+.Modal--viewQuot--list--each {
+  position: relative;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+.orderName--each {
+  width: 60%;
+  height: 100%;
+  text-align: left;
+  padding-left: 16px;
+  display: inline-block;
+  overflow: auto;
+}
+.orderQty--each {
+  width: 30%;
+  height: 100%;
+  display: inline-block;
+  overflow: auto;
+}
+.byClicking--text {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  width: 80%;
+}
+
+.Modal--paying {              /* Modal Box */
+  position: fixed;
+  z-index: 99;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  /*overflow: auto;*/
+  height: 75%;
+  background-color : #EAE6C7;
+  border-radius: 4px;
+}
+.Modal--paying--overlay {     /* Below layer of Modal Box */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1; 
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+.Modal--paying--content {     /* Everything Inside The Modal Box */
+  position: relative;
+  background-color: #EAE6C7;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+.Modal--paying--header {      /* Header Modal Box */
+  padding: 32px;
+  height: 10%;
+  background-color: #EFEFEF;
+}
+.Modal--paying--body {
+  position: relative;
+  margin: auto;
+  height: 70%;
+  padding: 8px;
+  background-color: #EFEFEF;  
+}
+.Modal--paying--body--text {
+   /* background-color: yellow; */
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  width: 85%;
+  font-size: 16px;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.Modal--paying--footer {
+  text-align: center;
+  padding: 16px;
+  background-color: #EFEFEF;
+  height: 20%;
+}
+.Modal--paying--btn {
+  color: #E0E0E0;
+  background-color: #191919;
+  width: 128px;
+  font-size: 20px;
+  top: 0;
+  left: 0;
+  user-select: none;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 4px;
+  line-height: 32px;
+}
+.Modal--paying--spinner {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.Modal--choosepayment--header {      /* Header Modal Box */
+  padding: 32px;
+  height: 20%;
+  background-color: #EFEFEF;
+}
+.Modal--choosepayment--headerText {
+  font-weight: normal;
+  text-align: center;
+}
+.Modal--choosepayment--body {
+  position: relative;
+  margin: auto;
+  height: 60%;
+  padding: 8px;
+  background-color: #EFEFEF;
+}
+.Modal--choosepayment--body--text {
+  /* background-color: yellow; */
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  width: 85%;
+  font-size: 16px;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.Modal--choosepayment--footer {
+  position: relative;
+  text-align: center;
+  padding: 16px;
+  border-top: 1px solid #BABABA;
+  background-color: #EFEFEF;
+  height: 20%;
+}
+.Modal--choosepayment--continue--btn {
+  position: absolute;
+  color: #E0E0E0;
+  background-color: #0047BA;
+  width: 128px;
+  font-size: 20px;
+  transform: translate(-50%, -50%);
+  user-select: none;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 4px;
+  line-height: 32px;
+}
+.Modal--choosepayment--back--btn {
+  position: absolute;
+  color: #E0E0E0;
+  background-color: #191919;
+  width: 128px;
+  font-size: 20px;
+  transform: translate(-50%, -50%);
+  user-select: none;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 4px;
+  line-height: 32px;
+}
+.Modal--choosepayment--cards--each {
+  position: relative;
+  background-color: lightgrey;
+  margin: auto;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  text-align: center;
+  line-height: 56px;
+  box-shadow: 2px 2px 4px #999999;
+}
+.Modal--choosepayment--cardLogoDiv {
+  position: absolute;
+  top: 25%;
+  left: 0;
+  width: 20%;
+  height: 100%;
+  border-bottom-left-radius: 8px;
+  /* background-color: lightblue; */
+}
+.Modal--choosepayment--cardLogo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.Modal--choosepayment--cardInfoDiv {
+  position: absolute;
+  top: 25%;
+  left: 20%;
+  width: 80%;
+  height: 100%;
+  border-bottom-right-radius: 8px;
+  /* background-color: lightgreen; */
+}
+.Modal--choosepayment--cardType--visa {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 20%;
+  width: 100%;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  background-color: blue;
+}
+.Modal--choosepayment--cardType--mastercard {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 20%;
+  width: 100%;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  background-color: #FF9900;
+}
+.Modal--choosepayment--cardInfoDiv--cardType {
+  text-shadow: 1px 1px #686868;
+  left: 40%;
+}
+.Modal--choosepayment--cardInfoDiv--cardNum {
+  position: absolute;
+  left: 35%;
+  transform: translateX(-50%);
+}
+
+.Modal--choosepayment--cardcontent {
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 80%;
+  width: 100%;
+}
+
+
+.RatingDiv {
+  position: relative;
+  margin: auto;
+  height: 80%;
+  width: 85%;
+  text-align: center;
+}
+
+.stars {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  width: 75%;
+  transform: translate(-50%, -50%);
+}

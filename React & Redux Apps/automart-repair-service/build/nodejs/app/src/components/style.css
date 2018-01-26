@@ -1,0 +1,231 @@
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+@media only screen and (max-width: 420px) {
+  #home_wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 420px;
+  }
+}
+
+.once{
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background: rgb(38,162,204);
+  background: -moz-linear-gradient(top, rgba(38,162,204,1) 0%, rgba(39,114,206,1) 50%, rgba(75,42,153,1) 100%);
+  background: -webkit-linear-gradient(top, rgba(38,162,204,1) 0%,rgba(39,114,206,1) 50%,rgba(75,42,153,1) 100%);
+  background: linear-gradient(to bottom, rgba(38,162,204,1) 0%,rgba(39,114,206,1) 50%,rgba(75,42,153,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#26a2cc', endColorstr='#4b2a99',GradientType=0 );
+}
+.jump{
+  padding-top: 100px;
+}
+
+header{
+  position: fixed;
+  width: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0.3),transparent);
+  -webkit-transition: background 0.2s;
+  transition: background 0.2s;
+}
+.header-down{
+  border-bottom: solid 1px rgba(0, 0, 0, 0.3);
+  background: #fff;
+}
+.header-down ul li{
+  color:#383838;
+}
+.brands{
+  background-image: url('../pages/img/automart.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 20%;
+  height: 30px;
+  margin-right: 15%;
+}
+.brand-black{
+  background-image: url('../pages/img/automart_black.png');
+}
+/*menu*/
+#menu {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-end;
+  padding-top: 30px;
+}
+
+#menu > ul {
+  color:#fff;
+  list-style: none;
+}
+
+#menu > ul > li {
+  padding:0 15px 0 15px;
+  display: inline-block;
+}
+
+#menu > ul > li:nth-last-child(1){
+  padding:0;
+}
+
+.jumpbrotron{
+  padding: 40px 0;
+}
+
+.jumpbrotron h3{
+  color:#fff;
+}
+
+.jumpimage{
+  background-image: url("https://cdn.lyft.net/brochure/images/rtb_home.5bc4356e.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+}
+.postlog{
+  color:#fff;
+}
+
+.p-l-0{
+  padding-left:0 !important;
+}
+
+.store_img{
+  padding-top: 20px;
+}
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 100%;
+}
+#two,#three,#map{
+  background-color: #fff;
+  height: auto;
+}
+#suggest{
+  color:#fff;
+  padding: 40px;
+  background-color: #383838;
+  height: auto;
+  justify-content: center;
+}
+#suggest h3{
+  color:#fff;
+  margin-top: 0 !important;
+  margin-bottom: 30px !important;
+}
+
+#suggest h4 {
+  color:#fff;
+}
+#suggest ul{
+  list-style: none;
+}
+
+#suggest ul li{
+  display: inline-block;
+}
+
+.button{
+  color: #fff;
+  background: rgba(0,0,0,0);
+  border: solid 2px #fff;
+  margin: 0 10px 0 0;
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 7px 20px;
+  line-height: 1.8;
+  appearance: none;
+  box-shadow: none;
+}
+.button-black{
+  color: #383838;
+  border: solid 2px #383838;
+}
+
+.slogan{
+  width: 35%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+}
+
+.slogan-img{
+  background-image: url('../pages/img/7giy0tc53z4-joe-gardner.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 65%;
+  height: 500px
+}
+
+.slogan-imgtwo{
+  background-image: url('../pages/img/jy_74wxi2da-karlis-dambrans.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 65%;
+  height: 500px
+}
+/*footer*/
+#footer{
+  color:#fff;
+  background-color: #82b5ec;
+  height: 350px;
+}
+#footer h3{
+  color:#fff;
+  margin-top: 0 !important;
+}
+#footer ul{
+  padding: 0;
+  list-style: none;
+}
+#footer ul li{
+  display: inline-block;
+  margin-top: 90px;
+}
+.location{
+  padding-left: 10%;
+  width: 50%;
+  position: relative;
+}
+.pin{
+  position: absolute;
+  bottom: 20px;
+}
+.footer-content{
+  margin-top: 40px;
+}
+.tools img{
+  object-fit: cover;
+  padding: 15px;
+}
+
+/*select box*/
+.select-box{
+  margin: 10px 0;
+  border: solid 3px #fff;
+  color:#fff;
+  width: 100%;
+  height: 40px;
+  padding:20px;
+  background-color: rgb(171, 211, 253);
+}

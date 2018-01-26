@@ -1,0 +1,22 @@
+git fetch origin api
+git branch -a
+git checkout remotes/origin/api
+git log
+git checkout remotes/origin/react
+git merge remotes/origin/api
+ 
+4515  git checkout react
+ 4517  git log
+ 4518  git branch
+ 4521  git log
+ 4522  git branch
+ 4523  git branch -d react
+ 4524  git checkout -b react
+ 4525  git branch
+ 4526  git log
+ 4527  git status
+ 4528  git branch
+ 4529  history
+ 4530  history | tail -n 16
+ 4531  history | tail -n 18
+ 4532  history | tail -n 20

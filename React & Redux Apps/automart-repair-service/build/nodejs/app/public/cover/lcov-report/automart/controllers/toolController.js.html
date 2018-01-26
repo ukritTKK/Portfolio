@@ -1,0 +1,437 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Code coverage report for automart/controllers/toolController.js</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../../prettify.css" />
+    <link rel="stylesheet" href="../../base.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style type='text/css'>
+        .coverage-summary .sorter {
+            background-image: url(../../sort-arrow-sprite.png);
+        }
+    </style>
+</head>
+<body>
+<div class='wrapper'>
+  <div class='pad1'>
+    <h1>
+      <a href="../../index.html">all files</a> / <a href="index.html">automart/controllers/</a> toolController.js
+    </h1>
+    <div class='clearfix'>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">12.73% </span>
+        <span class="quiet">Statements</span>
+        <span class='fraction'>7/55</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">0% </span>
+        <span class="quiet">Branches</span>
+        <span class='fraction'>0/30</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">0% </span>
+        <span class="quiet">Functions</span>
+        <span class='fraction'>0/6</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">12.96% </span>
+        <span class="quiet">Lines</span>
+        <span class='fraction'>7/54</span>
+      </div>
+    </div>
+  </div>
+  <div class='status-line low'></div>
+<pre><table class="coverage">
+<tr><td class="line-count quiet">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125</td><td class="line-coverage quiet"><span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js">var jwt = require('jsonwebtoken');
+var fs = require('fs');
+// var mongoose = require('mongoose');
+var User = require('../models/user')//mongoose.model('User');
+var config = require('../configs/env');
+module.exports.verifyToken = <span class="fstat-no" title="function not covered" >function(token, res, callback) {</span>
+<span class="cstat-no" title="statement not covered" >	if(token)</span>
+	{
+<span class="cstat-no" title="statement not covered" >    jwt.verify(token, config.jwt.secret, <span class="fstat-no" title="function not covered" >function(err, decoded) {</span></span>
+<span class="cstat-no" title="statement not covered" >	    if (err)</span>
+			{
+<span class="cstat-no" title="statement not covered" >				if(err.name == 'JsonWebTokenError')</span>
+				{
+<span class="cstat-no" title="statement not covered" >          res.status(400).json({"message": "Token invalid"});</span>
+          // return callback("Token invalid", null);
+<span class="cstat-no" title="statement not covered" >					return 0;</span>
+        }
+        else
+				{
+<span class="cstat-no" title="statement not covered" >          res.status(400).json({"message": "Token is expired"});</span>
+          // return callback("Token is expired", null);
+<span class="cstat-no" title="statement not covered" >					return 0;</span>
+        }
+			}
+			else <span class="cstat-no" title="statement not covered" >if(decoded)</span>
+			{
+<span class="cstat-no" title="statement not covered" >				User.findOne({_id:decoded.id},<span class="fstat-no" title="function not covered" >function(err,docs)</span></span>
+				{
+<span class="cstat-no" title="statement not covered" >					if(docs &amp;&amp; docs.enabled != 1 &amp;&amp; docs.user_type != 3) // add check for docs exist for the test that remove the user, but use the same test file token.</span>
+				  {
+<span class="cstat-no" title="statement not covered" >				    res.status(403).json({message: "error, your account got disabled, please contact the garage you are in or the administrator."})</span>
+				    // return callback("Account got disabled", null);
+<span class="cstat-no" title="statement not covered" >						return 0;</span>
+					}
+					else
+					{
+<span class="cstat-no" title="statement not covered" >						var now = new Date();</span>
+<span class="cstat-no" title="statement not covered" >					  var refresh_time = new Date(decoded.exp * 1000);</span>
+<span class="cstat-no" title="statement not covered" >					  refresh_time.setMinutes(refresh_time.getMinutes() - 45);</span>
+<span class="cstat-no" title="statement not covered" >						if(now &gt;= refresh_time)</span>
+						{
+<span class="cstat-no" title="statement not covered" >				      var newToken = jwt.sign({username: decoded.username, type: decoded.user_type}, config.jwt.secret, {expiresIn: '2h'});</span>
+<span class="cstat-no" title="statement not covered" >				      res.set({'Token': newToken});</span>
+						}
+<span class="cstat-no" title="statement not covered" >						return callback(null, decoded);</span>
+					}
+				})
+	    }
+			else {
+				// return callback("User not found", null);
+<span class="cstat-no" title="statement not covered" >				res.status(401).json({message:"user not found"})</span>
+<span class="cstat-no" title="statement not covered" >				return 0;</span>
+			}
+		});
+	}
+	else {
+<span class="cstat-no" title="statement not covered" >		res.status(400).json({'message': 'The token has not found.'});</span>
+		// return callback('The token has not found.', null);
+<span class="cstat-no" title="statement not covered" >		return 0;</span>
+	}
+};
+module.exports.renameFile = <span class="fstat-no" title="function not covered" >function(req,filename,docs,res,path) // path = '../public/uploads/car/images'</span>
+{
+  //if(req.hasOwnProperty(file)) //&amp;&amp; req.file.hasOwnProperty(mimetype)) // check if file exist?
+<span class="cstat-no" title="statement not covered" >  try</span>
+  {
+    // var file = __dirname +'/'+ path + '/'+ filename +'.'+ req.file.mimetype.split('/')[1];//req.file.filename; in case you want to change the filename to be the same but with different path
+<span class="cstat-no" title="statement not covered" >    var file = path + '/'+ filename +'.'+ req.file.mimetype.split('/')[1];/</span>/req.file.filename; in case you want to change the filename to be the same but with different path
+<span class="cstat-no" title="statement not covered" >    fs.rename(req.file.path, file, <span class="fstat-no" title="function not covered" >function(err)</span></span>
+    {
+<span class="cstat-no" title="statement not covered" >      if (err)</span>
+      {
+<span class="cstat-no" title="statement not covered" >        if(config.isDebugMessage) <span class="cstat-no" title="statement not covered" >console.log(err);</span></span>
+<span class="cstat-no" title="statement not covered" >        var obj = {"message":"looks like we can't upload the file."};</span>
+<span class="cstat-no" title="statement not covered" >        res.status(500).json({docs:docs, obj:obj, err:err});</span>
+<span class="cstat-no" title="statement not covered" >        return 0;</span>
+      } else
+      {
+<span class="cstat-no" title="statement not covered" >        var obj = {</span>
+          message: 'File uploaded successfully',
+          filename: filename +'.'+ req.file.mimetype.split('/')[1] //req.file.filename
+        };
+<span class="cstat-no" title="statement not covered" >        res.json({obj:docs, file:obj});</span>
+<span class="cstat-no" title="statement not covered" >        return file;</span>
+      }
+    });
+  }
+  catch(e)
+  {
+<span class="cstat-no" title="statement not covered" >    return 0;</span>
+  }
+}
+module.exports.showModel = <span class="fstat-no" title="function not covered" >function(res,err,docs)</span>
+{
+  if(err)
+<span class="cstat-no" title="statement not covered" >  {</span>
+    res.status(500).json({message:"error, something happened while query",error_message:err});
+<span class="cstat-no" title="statement not covered" >    return 0;</span>
+<span class="cstat-no" title="statement not covered" >  }</span>
+	//T<span class="cstat-no" title="statement not covered" >ODO: change the other showModel with upload to check with this condition as well</span>
+	if(<span class="cstat-no" title="statement not covered" >docs &amp;&amp; Ob</span>ject.prototype.toString.call(docs)=="[object Array]" &amp;&amp; docs.length&gt;0)
+		res.json(docs);
+	else <span class="cstat-no" title="statement not covered" >if(docs &amp;&amp; Object.prototype.toString.call(docs)!="[object Array]")</span>
+<span class="cstat-no" title="statement not covered" >	  res.json(docs);</span>
+	else<span class="cstat-no" title="statement not covered" ></span>
+	{<span class="cstat-no" title="statement not covered" ></span>
+		res.status(404).json({message:"error, data not found"});
+    return 0;
+	}<span class="cstat-no" title="statement not covered" ></span>
+}<span class="cstat-no" title="statement not covered" ></span>
+/*
+module.exports.verifyKey = function(key, res, callback) {
+	User.findOne({key:key}, function(err, user) {
+		if(!user) {
+			res.status(400);
+			res.json({"message" : "Key is invalid."});
+			return callback("Key is invalid.",null);
+		}
+		else {
+			return callback(null, user);
+		}
+	});
+};
+//*/
+&nbsp;</pre></td></tr>
+</table></pre>
+<div class='push'></div><!-- for sticky footer -->
+</div><!-- /wrapper -->
+<div class='footer quiet pad2 space-top1 center small'>
+  Code coverage
+  generated by <a href="http://istanbul-js.org/" target="_blank">istanbul</a> at Thu Jan 12 2017 11:11:31 GMT+0000 (UTC)
+</div>
+</div>
+<script src="../../prettify.js"></script>
+<script>
+window.onload = function () {
+        if (typeof prettyPrint === 'function') {
+            prettyPrint();
+        }
+};
+</script>
+<script src="../../sorter.js"></script>
+</body>
+</html>

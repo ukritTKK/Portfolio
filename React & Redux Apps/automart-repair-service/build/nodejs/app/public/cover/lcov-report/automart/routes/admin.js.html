@@ -1,0 +1,548 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Code coverage report for automart/routes/admin.js</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../../prettify.css" />
+    <link rel="stylesheet" href="../../base.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style type='text/css'>
+        .coverage-summary .sorter {
+            background-image: url(../../sort-arrow-sprite.png);
+        }
+    </style>
+</head>
+<body>
+<div class='wrapper'>
+  <div class='pad1'>
+    <h1>
+      <a href="../../index.html">all files</a> / <a href="index.html">automart/routes/</a> admin.js
+    </h1>
+    <div class='clearfix'>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">85.06% </span>
+        <span class="quiet">Statements</span>
+        <span class='fraction'>74/87</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">0% </span>
+        <span class="quiet">Branches</span>
+        <span class='fraction'>0/6</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">0% </span>
+        <span class="quiet">Functions</span>
+        <span class='fraction'>0/4</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">85.06% </span>
+        <span class="quiet">Lines</span>
+        <span class='fraction'>74/87</span>
+      </div>
+    </div>
+  </div>
+  <div class='status-line high'></div>
+<pre><table class="coverage">
+<tr><td class="line-count quiet">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162</td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js">&nbsp;
+var express = require('express');
+var router = express.Router();
+var User = require('.'+'/../models/user');
+&nbsp;
+var adminController = require('.'+'/../controllers/adminController')
+var verifyController = require('../controllers/verifyController')
+&nbsp;
+var allVerify = verifyController.verifyAll;
+var allVerifyIndiv = verifyController.verifyAllIndiv;
+var verifyMech = verifyController.verifyMechanic;
+var verifyGarage = verifyController.verifyGarage;
+var verifyMechIndiv = verifyController.verifyMechanicIndiv;
+var verifyGarageIndiv = verifyController.verifyGarageIndiv;
+var verifyAdmin = verifyController.verifyAdmin;
+&nbsp;
+var multer  = require('multer');
+var upload_part = multer({ dest: 'public/uploads/part/images/' });
+var upload_garage = multer({ dest: 'public/uploads/garage/images/' });
+var upload_mechanic = multer({ dest: 'public/uploads/mechanic/images/' });
+var upload_car = multer({ dest: 'public/uploads/car/images/' });
+&nbsp;
+/* GET home page. */
+router.get('/hello', <span class="fstat-no" title="function not covered" >function(req, res, next) {</span>
+<span class="cstat-no" title="statement not covered" >  res.send('hello world!');</span>
+});
+//TODO: check and make sure that the normal user shouldn't be able to use this...
+<span class="fstat-no" title="function not covered" >function check(req, res, next){</span>
+<span class="cstat-no" title="statement not covered" >    if(verifyMech)</span>
+    {//req.isAuthenticated()){
+        // console.log('verify Mech pass')
+        // console.log(req.user);
+<span class="cstat-no" title="statement not covered" >        next();</span>
+    }
+    else
+    {
+<span class="cstat-no" title="statement not covered" >      var obj = {"message":"Unauthorized"};</span>
+<span class="cstat-no" title="statement not covered" >      res.status(401).json({obj})</span>
+    }
+}
+<span class="fstat-no" title="function not covered" >function checkGarage(req, res, next){</span>
+<span class="cstat-no" title="statement not covered" >    if(verifyGarage)</span>
+    {
+<span class="cstat-no" title="statement not covered" >      next();</span>
+    }
+    else
+    {
+<span class="cstat-no" title="statement not covered" >      var obj = {"message":"Unauthorized"};</span>
+<span class="cstat-no" title="statement not covered" >      res.status(401).json({obj})</span>
+    }
+}
+<span class="fstat-no" title="function not covered" >function checkAdmin(req, res, next){</span>
+<span class="cstat-no" title="statement not covered" >    if(verifyAdmin)</span>
+    {
+      // console.log('verify Admin pass')
+      // console.log(req.user);
+<span class="cstat-no" title="statement not covered" >      next();</span>
+    }
+    else
+    {
+<span class="cstat-no" title="statement not covered" >      var obj = {"message":"Unauthorized"};</span>
+<span class="cstat-no" title="statement not covered" >      res.status(401).json({obj})</span>
+    }
+}
+&nbsp;
+//Create Read Update Delete
+router.route('/mechanic')
+  // .post(allVerify, adminController.postMechanic)
+  .get(allVerify, adminController.getMechanic)
+  // .put(allVerify, adminController.putMechanic)
+  // .delete(allVerify, adminController.deleteMechanic);
+router.post('/mechanic', [checkGarage, upload_mechanic.single('file'), adminController.postMechanic]);
+router.get(   '/mechanic/:id',allVerify,   adminController.showMechanic)
+router.get('/classDataWithUser/:userType',verifyGarage,adminController.getClassDataWithUser)
+router.get('/classDataWithUser/:userType/:id',verifyMechIndiv,adminController.showClassDataWithUser)
+router.put(   '/mechanic/:id',verifyMechIndiv,    adminController.putMechanic)
+router.delete('/mechanic/:id',verifyAdmin, adminController.deleteMechanic)
+router.put(   '/mechanicImg/:id',upload_mechanic.single('file'),    adminController.putMechanicImg)
+router.post('/mechanicWithUser', [checkGarage, upload_mechanic.single('file'), adminController.postMechanicWithUser]);
+&nbsp;
+// router.get('/mechanicWithBanStatus',verifyAdmin, adminController.getMechanicWithBanStatus);
+router.get('/mechanicInGarage',verifyGarage, adminController.getMechanicInGarage)
+router.post('/part', [checkAdmin, upload_part.single('file'), adminController.postPart]);
+router.route('/part')
+  // .post(allVerify, adminController.postPart)
+  .get(allVerify, adminController.getPart)
+  // .put(allVerify, adminController.putPart)
+  // .delete(allVerify, adminController.deletePart);
+router.get(   '/part/:id',allVerify,   adminController.showPart)
+router.put(   '/part/:id',verifyAdmin,    adminController.putPart)
+router.put('/partImg/:id', upload_part.single('file'), adminController.putPartImg);
+router.delete('/part/:id',verifyAdmin, adminController.deletePart)
+&nbsp;
+router.route('/car')
+  // .post(allVerify  ,   adminController.postCar)
+  .get(allVerify   ,    adminController.getCar)
+  // .put(allVerify   ,    adminController.putCar)
+  // .delete(allVerify, adminController.deleteCar);
+  router.get(   '/car/:id',allVerify,   adminController.showCar)
+  router.put(   '/car/:id',allVerify,    adminController.putCar)
+  router.delete('/car/:id',verifyAdmin, adminController.deleteCar)
+  router.put(   '/carImg/:id',upload_car.single('file'),    adminController.putCarImg)
+router.post('/car', [check, upload_car.single('file'), adminController.postCar]);
+router.route('/user')
+  .post(verifyAdmin  ,   adminController.postUser)
+  .get(verifyAdmin   ,    adminController.getUser)
+  // .put(allVerify   ,    adminController.putUser)
+  // .delete(allVerify, adminController.deleteUser);
+  router.get(   '/user/:id',verifyAdmin,   adminController.showUser)
+  router.put(   '/user/:id',allVerifyIndiv,    adminController.putUser)
+  router.delete('/user/:id',verifyAdmin, adminController.deleteUser)
+router.route('/garage')
+  // .post(allVerify  ,   adminController.postGarage)
+  .get(allVerify   ,    adminController.getGarage)
+  // .put(allVerify   ,    adminController.putGarage)
+  // .delete(allVerify, adminController.deleteGarage);
+router.post('/garage', [check, upload_garage.single('file'), adminController.postGarage]);
+  router.get(   '/garage/:id',allVerify,   adminController.showGarage)
+  router.put(   '/garage/:id',verifyGarageIndiv,    adminController.putGarage)
+  router.delete('/garage/:id',verifyAdmin, adminController.deleteGarage)
+router.put('/garageImg/:id', upload_garage.single('file'), adminController.putGarageImg);
+router.post('/garageWithUser', upload_garage.single('file'), adminController.postGarageWithUser);
+// router.get('/garageWithUser',verifyGarage,adminController.getGarageWithUser)
+router.route('/service')
+  .post(verifyMech  ,   adminController.postService)
+  .get(allVerify   ,    adminController.getService)
+  // .put(allVerify   ,    adminController.putService)
+  // .delete(allVerify, adminController.deleteService);
+  router.get(   '/service/:id',allVerify,   adminController.showService)
+  router.put(   '/service/:id',verifyMech,    adminController.putService)
+  router.delete('/service/:id',verifyAdmin, adminController.deleteService)
+router.route('/request')
+  .post(allVerify  ,   adminController.postRequest)
+  .get(allVerify   ,    adminController.getRequest)
+  // .put(allVerify   ,    adminController.putRequest)
+  // .delete(allVerify, adminController.deleteRequest);
+  router.get(   '/request/:id',allVerify,   adminController.showRequest)
+  router.put(   '/request/:id',verifyMech,    adminController.putRequest)
+  router.delete('/request/:id',verifyAdmin, adminController.deleteRequest)
+router.route('/billing')
+  .post(verifyMech  ,   adminController.postBilling)
+  .get(allVerify   ,    adminController.getBilling)
+  // .put(allVerify   ,    adminController.putBilling)
+  // .delete(allVerify, adminController.deleteBilling);
+  router.get(   '/billing/:id',allVerify,   adminController.showBilling)
+  router.put(   '/billing/:id',verifyMech,    adminController.putBilling)
+  router.delete('/billing/:id',verifyAdmin, adminController.deleteBilling)
+router.route('/promotion')
+  .post(verifyGarage  ,   adminController.postPromotion)
+  .get(allVerify   ,    adminController.getPromotion)
+  // .put(allVerify   ,    adminController.putPromotion)
+  // .delete(allVerify, adminController.deletePromotion);
+  router.get(   '/promotion/:id',allVerify,   adminController.showPromotion)
+  router.put(   '/promotion/:id',verifyGarage,    adminController.putPromotion)
+  router.delete('/promotion/:id',verifyAdmin, adminController.deletePromotion)
+router.get('/getCount',verifyAdmin, adminController.getCount)
+router.get('/getPartPerWeek',verifyAdmin, adminController.getPartPerWeek)
+router.get('/getMechActPerWeek',verifyAdmin, adminController.getMechActPerWeek)
+&nbsp;
+//*/
+module.exports = router;
+&nbsp;</pre></td></tr>
+</table></pre>
+<div class='push'></div><!-- for sticky footer -->
+</div><!-- /wrapper -->
+<div class='footer quiet pad2 space-top1 center small'>
+  Code coverage
+  generated by <a href="http://istanbul-js.org/" target="_blank">istanbul</a> at Thu Jan 12 2017 11:11:31 GMT+0000 (UTC)
+</div>
+</div>
+<script src="../../prettify.js"></script>
+<script>
+window.onload = function () {
+        if (typeof prettyPrint === 'function') {
+            prettyPrint();
+        }
+};
+</script>
+<script src="../../sorter.js"></script>
+</body>
+</html>

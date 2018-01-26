@@ -1,0 +1,36 @@
+@media only screen and (max-width: 320px) {
+  .headerStyle {
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+  }  
+}
+
+@media only screen and (max-width: 767px) {
+  #titleUserName {
+    display: none;
+  }
+}
+
+.rootStyles {
+  height: 20%;
+  width: 100%;
+}
+
+.headerStyle {
+  /* background-color: #54585a;  */
+  background-color: #0033a0; 
+  position: relative;
+  color: #FFFFFF;
+  font-size: 24px;
+  padding: 16px;
+  height: 100%;
+  -webkit-transition: background 0.2s;
+  transition: background 0.2s;
+}.header-down{
+  border-bottom: solid 1px rgba(0, 0, 0, 0.3);
+  background: #fff;
+}
+.header-down ul li{
+  color:#383838;
+}

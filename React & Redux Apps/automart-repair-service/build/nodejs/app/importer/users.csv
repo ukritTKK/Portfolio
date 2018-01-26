@@ -1,0 +1,17 @@
+username,password,user_type,name,email,home_address,home_address_lat,home_address_lng,tel
+admin,$2a$05$SohHRXCZzwbxsbOtBA4aI.RsbkOm8hRDCH.q/fTYAsPCwsfM7blx2,3,พัฒนดล ดำรงวัฒนานุกูล,don@automart.mock,bangkok,,,
+garage1,$2a$05$SohHRXCZzwbxsbOtBA4aI.RsbkOm8hRDCH.q/fTYAsPCwsfM7blx3,2,สมเกียรติ ประสาทพรบริบูรณ์,somkiat.pra@chaicharoen.co.th,bangkok,,,099-999-0099
+mech1,$2a$05$SohHRXCZzwbxsbOtBA4aI.RsbkOm8hRDCH.q/fTYAsPCwsfM7blx4,1,โชคชัย เจริญเกียรติวัฒนา,chokchai@haicharoen.co.th,bangkok,,,095-555-5555
+mech2,$2a$05$SohHRXCZzwbxsbOtBA4aI.RsbkOm8hRDCH.q/fTYAsPCwsfM7blx5,1,อำพล วงศ์กิจ,amphol@haicharoen.co.th,bangkok,,,089-881-8181
+garage2,$2a$05$SohHRXCZzwbxsbOtBA4aI.RsbkOm8hRDCH.q/fTYAsPCwsfM7blx6,2,สิทธิ บุญมี,sitthi@mobiii.co.th,bangkok,,,091-111-1111
+mech3,$2a$05$SohHRXCZzwbxsbOtBA4aI.RsbkOm8hRDCH.q/fTYAsPCwsfM7blx7,1,วัฒนา ว่องกิตติ,wattana.w@mobiii.co.th,bangkok,,,
+user1,$2a$05$SohHRXCZzwbxsbOtBA4aI.RsbkOm8hRDCH.q/fTYAsPCwsfM7blx8,0,กานดา เอื้อบำรุง,kanda@m.mock,bangkok,13.840714,100.5651193,081-156-1475
+user2,$2a$05$SohHRXCZzwbxsbOtBA4aI.RsbkOm8hRDCH.q/fTYAsPCwsfM7blx9,0,ศักดิ์ชัย สมประสงค์,sukchai@m.mock,bangkok,,,095-571-1368
+user3,$2a$05$SohHRXCZzwbxsbOtBA4aI.RsbkOm8hRDCH.q/fTYAsPCwsfM7blx10,0,เอื้อ อำนวย,aue.a@m.mock,bangkok,,,083-524-2746
+user4,$2a$05$SohHRXCZzwbxsbOtBA4aI.RsbkOm8hRDCH.q/fTYAsPCwsfM7blx11,0,จุมพล สิทธิโชคกาญจน์กุล,chumpol@m.mock,bangkok,13.8058724,100.5680219,086-175-1678
+garage3,$2a$05$SohHRXCZzwbxsbOtBA4aI.RsbkOm8hRDCH.q/fTYAsPCwsfM7blx12,2,ภูมี บูรพา,b.burapha@jc-mech.co.th,bangkok,,,086-835-6509
+garage4,$2a$05$SohHRXCZzwbxsbOtBA4aI.RsbkOm8hRDCH.q/fTYAsPCwsfM7blx13,2,อิทธิพล มากมี,ittipol@kroa-service.co.th,bangkok,,,084-483-6134
+mech4,$2a$05$SohHRXCZzwbxsbOtBA4aI.RsbkOm8hRDCH.q/fTYAsPCwsfM7blx14,1,วิบูลย์ อันดำรงค์,vibul@jc-mech.co.th,bangkok,,,
+mech5,$2a$05$SohHRXCZzwbxsbOtBA4aI.RsbkOm8hRDCH.q/fTYAsPCwsfM7blx15,1,เฉลิม วิพากษ์,chalerm@jc-mech.co.th,bangkok,,,
+mech6,$2a$05$SohHRXCZzwbxsbOtBA4aI.RsbkOm8hRDCH.q/fTYAsPCwsfM7blx16,1,ศิริ สินดำเนิน,siri@jc-mech.co.th,bangkok,,,
+mech7,$2a$05$SohHRXCZzwbxsbOtBA4aI.RsbkOm8hRDCH.q/fTYAsPCwsfM7blx17,1,บริพัทธิ์ โชคบันดาล,boriphat@kroa-service.co.th,bangkok,,,

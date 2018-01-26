@@ -1,0 +1,45 @@
+version: "2"
+services:
+
+  nginx:
+    container_name: nginx
+    build: ./build/nginx
+    #volumes:
+    #  - ./src:/var/www/public
+    ports:
+      - 80:80
+      - 443:443
+    links:
+      - nodejs
+
+  nodejs:
+    container_name: nodejs
+    build: ./build/nodejs
+    volumes:
+      - ./build/nodejs/app:/var/www/automart
+      - node_modules_automart:/var/www/automart/node_modules
+    ports:
+      - 3000:3000
+      - 3001:3001
+      - 3002:3002
+    command: npm run nf
+    environment:
+      PORT: 3001
+
+  db:
+    container_name: db
+    image: mongo
+    volumes:
+      - mongo-data:/data/db
+      - mongo-config:/data/configdb
+    ports:
+      - 27017:27017
+    command: "--smallfiles --logpath=/dev/null"
+
+volumes:
+  mongo-data:
+    external: true
+  mongo-config:
+    external: true
+  node_modules_automart:
+    external: true

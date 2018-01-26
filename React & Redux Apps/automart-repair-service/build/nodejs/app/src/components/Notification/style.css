@@ -1,0 +1,30 @@
+.notifContent {
+	margin: auto;
+	width: 60%;
+	padding: 2em;
+	text-align: center;
+	box-shadow: 5px 5px 20px 5px #b5b6b7;
+}
+
+.headerText {
+	padding: 0.25em;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: left;
+	font-size: 25px;
+}
+
+.normText {
+	text-align: left;
+	padding: 0.4em;
+	padding-right: 5em;
+}
+
+.notifDivider {
+	border-bottom: 1px solid #cccccc;
+}
+
+#time {
+	font-style: italic;
+	color: #1a53ff;
+}

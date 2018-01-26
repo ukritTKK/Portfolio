@@ -1,0 +1,411 @@
+3002
+
+
+Example app listening on port 3002!
+  CRUD
+    ? "Check if Mechanic CRUD work":
+Mongoose connected to mongodb://db:27017/automart
+      1) "before all" hook
+    ? "Check if admin postMechanicWithUser work":
+      2) "before all" hook
+    ? "Check if putMechanicImg work":
+      3) "before all" hook
+    ? "Check if getCount work":
+      4) "before all" hook
+    ? "Check if getMechanicInGarage works":
+      5) "before all" hook
+    ? "Check if Part CRUD work":
+      6) "before all" hook
+    ? "Check if Car CRUD work":
+      7) "before all" hook
+    ? "Check if User CRUD work":
+      8) "before all" hook
+    ? "Check if Garage CRUD work":
+      9) "before all" hook
+    ? "Check if postGarageWithUser CRUD work":
+      10) "before all" hook
+    ? "Check if Service CRUD work":
+      11) "before all" hook
+    ? "Check if Request CRUD work":
+      12) "before all" hook
+    ? "Check if Billing CRUD work":
+      13) "before all" hook
+    ? "Check if Promotion CRUD work":
+      14) "before all" hook
+    ? "Check if admin classDataWithUser CRUD work":
+      15) "before all" hook
+
+  Dashboard
+    ? Check if Dashboard work properly: 
+      16) "before all" hook
+
+  Errors
+    ? check that upload file when forget to attach should send correct error: 
+      17) "before all" hook
+    ? "Check if admin putPartImg error and part related error work":
+      18) "before all" hook
+    ? "Check if mechanic putMechanicImg work":
+      19) "before all" hook
+    ? "Check if admin putMechanicImg work":
+      20) "before all" hook
+    ? "Check if mechanic classDataWithUser work":
+      21) "before all" hook
+    ? "Check if garage putMechanicImg and some mechanic route errors works":
+      22) "before all" hook
+    ? "Check if Login and token error work":
+      23) "before all" hook
+    ? "Check if verifyController, toolController related error work":
+      24) "before all" hook
+    ? getMechanicInGarage error test
+      25) "before all" hook
+
+  Garage CRUD permission test
+    ? "Check if Mechanic CRUD work":
+      26) "before all" hook
+    ? "Check if Part CRUD work":
+      27) "before all" hook
+    ? "Check if Car CRUD work":
+      28) "before all" hook
+    ? "Check if User CRUD work":
+      29) "before all" hook
+    ? "Check if Garage CRUD work":
+      30) "before all" hook
+    ? "Check if Service CRUD work":
+      31) "before all" hook
+    ? "Check if Request CRUD work":
+      32) "before all" hook
+    ? "Check if Billing CRUD work":
+      33) "before all" hook
+    ? "Check if Promotion CRUD work":
+      34) "before all" hook
+    ? "Check if classDataWithUser CRUD work":
+      35) "before all" hook
+    ? "Check if garage postMechanicWithUser work":
+      36) "before all" hook
+    ? "Check if putMechanicImg work":
+      37) "before all" hook
+    ? "Check if getMechanicInGarage works":
+      38) "before all" hook
+
+  Login
+    ? checkLogin: 
+      39) "before all" hook
+
+  Mechanic CRUD permission test
+    ? "Check if Mechanic CRUD work":
+      40) "before all" hook
+    ? "Check if Part CRUD work":
+      41) "before all" hook
+    ? "Check if Car CRUD work":
+      42) "before all" hook
+    ? "Check if User CRUD work":
+      43) "before all" hook
+    ? "Check if Garage CRUD work":
+      44) "before all" hook
+    ? "Check if Service CRUD work":
+      45) "before all" hook
+    ? "Check if Request CRUD work":
+      46) "before all" hook
+    ? "Check if Billing CRUD work":
+      47) "before all" hook
+    ? "Check if Promotion CRUD work":
+      48) "before all" hook
+    ? "Check if classDataWithUser work":
+      49) "before all" hook
+
+  Templates
+    ? show template function
+      50) "before all" hook
+
+  User CRUD permission test
+    ? "Check if Mechanic CRUD work":
+      51) "before all" hook
+    ? "Check if Part CRUD work":
+      52) "before all" hook
+    ? "Check if Car CRUD work":
+      53) "before all" hook
+    ? "Check if User CRUD work":
+      54) "before all" hook
+    ? "Check if Garage CRUD work":
+      55) "before all" hook
+    ? "Check if Service CRUD work":
+      56) "before all" hook
+    ? "Check if Request CRUD work":
+      57) "before all" hook
+    ? "Check if Billing CRUD work":
+      58) "before all" hook
+    ? "Check if Promotion CRUD work":
+      59) "before all" hook
+
+
+  0 passing (2m)
+  59 failing
+
+  1) CRUD ? "Check if Mechanic CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  2) CRUD ? "Check if admin postMechanicWithUser work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  3) CRUD ? "Check if putMechanicImg work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  4) CRUD ? "Check if getCount work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  5) CRUD ? "Check if getMechanicInGarage works": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  6) CRUD ? "Check if Part CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  7) CRUD ? "Check if Car CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  8) CRUD ? "Check if User CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  9) CRUD ? "Check if Garage CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  10) CRUD ? "Check if postGarageWithUser CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  11) CRUD ? "Check if Service CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  12) CRUD ? "Check if Request CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  13) CRUD ? "Check if Billing CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  14) CRUD ? "Check if Promotion CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  15) CRUD ? "Check if admin classDataWithUser CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  16) Dashboard ? Check if Dashboard work properly:  "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  17) Errors ? check that upload file when forget to attach should send correct error:  "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  18) Errors ? "Check if admin putPartImg error and part related error work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  19) Errors ? "Check if mechanic putMechanicImg work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  20) Errors ? "Check if admin putMechanicImg work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  21) Errors ? "Check if mechanic classDataWithUser work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  22) Errors ? "Check if garage putMechanicImg and some mechanic route errors works": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  23) Errors ? "Check if Login and token error work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  24) Errors ? "Check if verifyController, toolController related error work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  25) Errors ? getMechanicInGarage error test "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  26) Garage CRUD permission test ? "Check if Mechanic CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  27) Garage CRUD permission test ? "Check if Part CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  28) Garage CRUD permission test ? "Check if Car CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  29) Garage CRUD permission test ? "Check if User CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  30) Garage CRUD permission test ? "Check if Garage CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  31) Garage CRUD permission test ? "Check if Service CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  32) Garage CRUD permission test ? "Check if Request CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  33) Garage CRUD permission test ? "Check if Billing CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  34) Garage CRUD permission test ? "Check if Promotion CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  35) Garage CRUD permission test ? "Check if classDataWithUser CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  36) Garage CRUD permission test ? "Check if garage postMechanicWithUser work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  37) Garage CRUD permission test ? "Check if putMechanicImg work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  38) Garage CRUD permission test ? "Check if getMechanicInGarage works": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  39) Login ? checkLogin:  "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  40) Mechanic CRUD permission test ? "Check if Mechanic CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  41) Mechanic CRUD permission test ? "Check if Part CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  42) Mechanic CRUD permission test ? "Check if Car CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  43) Mechanic CRUD permission test ? "Check if User CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  44) Mechanic CRUD permission test ? "Check if Garage CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  45) Mechanic CRUD permission test ? "Check if Service CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  46) Mechanic CRUD permission test ? "Check if Request CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  47) Mechanic CRUD permission test ? "Check if Billing CRUD work": "before all" hook:
+     Uncaught TypeError: Cannot read property 'body' of undefined
+      at async.waterfall.request (test/crudTest.js:1806:41)
+      at nextTask (node_modules/async/dist/async.js:5070:14)
+      at node_modules/async/dist/async.js:5064:13
+      at apply (node_modules/async/dist/async.js:21:25)
+      at node_modules/async/dist/async.js:56:12
+      at node_modules/async/dist/async.js:840:16
+      at controllers/testController.js:9:5208
+      at Query.<anonymous> (node_modules/mongoose/lib/model.js:3408:16)
+      at node_modules/kareem/index.js:259:21
+      at node_modules/kareem/index.js:127:16
+      at _combinedTickCallback (internal/process/next_tick.js:67:7)
+      at process._tickCallback (internal/process/next_tick.js:98:9)
+
+  48) Mechanic CRUD permission test ? "Check if Promotion CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  49) Mechanic CRUD permission test ? "Check if classDataWithUser work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  50) Templates ? show template function "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  51) User CRUD permission test ? "Check if Mechanic CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  52) User CRUD permission test ? "Check if Part CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  53) User CRUD permission test ? "Check if Car CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  54) User CRUD permission test ? "Check if User CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  55) User CRUD permission test ? "Check if Garage CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  56) User CRUD permission test ? "Check if Service CRUD work": "before all" hook:
+     Uncaught TypeError: Cannot read property 'body' of undefined
+      at async.waterfall.route (test/errorTest.js:628:43)
+      at nextTask (node_modules/async/dist/async.js:5070:14)
+      at node_modules/async/dist/async.js:5064:13
+      at apply (node_modules/async/dist/async.js:21:25)
+      at node_modules/async/dist/async.js:56:12
+      at node_modules/async/dist/async.js:840:16
+      at tmpRequest.end (controllers/testController.js:9:6679)
+      at Test.Request.callback (node_modules/superagent/lib/node/index.js:615:12)
+      at ClientRequest.<anonymous> (node_modules/superagent/lib/node/index.js:567:10)
+      at Socket.socketErrorListener (_http_client.js:308:9)
+      at emitErrorNT (net.js:1272:8)
+      at _combinedTickCallback (internal/process/next_tick.js:74:11)
+      at process._tickCallback (internal/process/next_tick.js:98:9)
+
+  57) User CRUD permission test ? "Check if Request CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  58) User CRUD permission test ? "Check if Billing CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+  59) User CRUD permission test ? "Check if Promotion CRUD work": "before all" hook:
+     Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+
+
+
+=============================== Coverage summary ===============================
+Statements   : 27.08% ( 663/2448 )
+Branches     : 1.35% ( 11/814 )
+Functions    : 1.32% ( 8/604 )
+Lines        : 27.44% ( 660/2405 )
+================================================================================

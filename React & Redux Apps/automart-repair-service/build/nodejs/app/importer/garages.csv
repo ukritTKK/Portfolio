@@ -1,0 +1,5 @@
+name,tel,rating,address,address_lat,address_lng,assoc_user_id,enabled,image_url
+อู่ชัยเจริญ,099-999-0099,3,กรุงเทพฯ,13.7854611,100.502021,581adb70886ce6002c2096ad,1,/uploads/garage/images/garage1.jpg
+Mobiii,091-111-1111,4,กรุงเทพฯ,13.7636092,100.5432803,581adb8c886ce6002c2096b0,1,/uploads/garage/images/garage2.jpg
+JC เจริญยนต์,086-835-6509,3,กรุงเทพฯ,13.8687061,100.5902737,581adba2886ce6002c2096b6,1,/uploads/garage/images/garage3.jpg
+อู่เคราบริการ,084-483-6134,4,กรุงเทพฯ,13.7963201,100.5801205,581adba5886ce6002c2096b7,1,/uploads/garage/images/garage4.jpg
