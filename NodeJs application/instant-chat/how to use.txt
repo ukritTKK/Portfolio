@@ -1,0 +1,5 @@
+In Nodejs Command Prompt
+
+type 'node index.js'
+
+open browsers and chat
